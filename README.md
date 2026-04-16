@@ -4,17 +4,17 @@ Computer Science student at UFOP focused on backend engineering, distributed sys
 
 ---
 
-## Focus
+## 🎯 Focus
 Backend Engineering • Distributed Systems • Data Structures • Systems Programming
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 C • C++ • Python • JavaScript • Docker • PostgreSQL • Haskell
 
 ---
 
-## Selected Projects
+## 📌 Selected Projects
 - **Distributed Systems** – Microservices architecture using Node.js and Docker  
 - **Data Structures** – B-Tree and B* Tree implementation with external memory handling (C)  
 - **Computer Networks** – Client-server systems using Python sockets  
@@ -22,5 +22,5 @@ C • C++ • Python • JavaScript • Docker • PostgreSQL • Haskell
 
 ---
 
-## Contact
-LinkedIn: linkedin.com/in/rafaelstylita
+## 📫 Contact
+🔗 LinkedIn: https://www.linkedin.com/in/rafaelstylita
