@@ -41,4 +41,4 @@ Sorting algorithms implemented in Assembly (MIPS), focusing on low-level operati
 
 ## 📫 Contact
 
-- LinkedIn: (coloque seu link aqui)
+- LinkedIn: https://www.linkedin.com/in/rafaelstylita
